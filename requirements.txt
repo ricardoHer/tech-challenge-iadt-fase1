@@ -1,0 +1,17 @@
+# Núcleo de ML e manipulação de dados
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.2
+imbalanced-learn==0.12.3
+
+# Visualização segura e cross-platform
+matplotlib==3.7.3
+seaborn==0.13.2
+plotly==5.24.1
+
+# Interpretabilidade
+shap==0.45.0
+
+# Ambiente e notebooks
+jupyterlab==4.2.3
+ipykernel==6.29.5
