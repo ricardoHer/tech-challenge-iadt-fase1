@@ -1,6 +1,9 @@
 # datasets e ambiente
 data/
 .env
+.venv/
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
+/bin
+lib
