@@ -29,3 +29,6 @@ Disponível via sklearn.datasets.load_breast_cancer().
 ## Autores
 
 Ricardo Franco Hernandez – Pós-graduação FIAP – Inteligência Artificial para Devs
+
+> 💡 Observação: todas as versões foram fixadas para compatibilidade com macOS, Windows e Linux (Python 3.11+).
+> Nenhum pacote precisa de compilação nativa — basta executar `pip install -r requirements.txt` em um ambiente virtual limpo.
