@@ -97,6 +97,11 @@ Pull requests são bem-vindos — abra uma issue para discutir mudanças signifi
 
 ## Autor
 
-RM368872 - Ricardo Franco Hernandez – Pós-graduação FIAP – Inteligência Artificial para Devs
+Ricardo Franco Hernandez
+Leonardo Antonio Pires Junior
+Luciana da Silva Estevam
+Leonardo Luis Carlos
+
+Pós-graduação FIAP – Inteligência Artificial para Devs
 
 > 💡 Observação: as versões no `requirements.txt` foram escolhidas para compatibilidade entre macOS, Windows e Linux. Caso encontre incompatibilidades (especialmente com Python 3.13), prefira criar um ambiente com Python 3.12.
